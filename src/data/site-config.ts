@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Swara Khakhkhar',
-    subtitle: 'Psychologist in making',
+    subtitle: 'Psychologist In Making',
     description: 'Hi, I am Swara; an aspiring clinical psychologist.',
     image: {
         src: '/dante-preview.jpg',
@@ -65,20 +65,16 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
+            text: 'Home',
+            href: '/home'
+        },
+        {
             text: 'About',
             href: '/about'
         },
         {
             text: 'Contact',
             href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
