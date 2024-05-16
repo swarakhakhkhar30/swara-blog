@@ -97,7 +97,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi there! Good to see you here; welcome to my space!',
-        text: "I'm **Swara Khakhkhar**, a BA (Honours) graduate with a major in Psychology, aspiring a career in clinical psychology. My drive for this ambition stems from a deep-rooted purpose: to empower individuals by helping them navigate through mental health challeneges and thereby help build emotionally-healthy families. In this space, I intend to write about my learnings and reflections as I take this path. Feel free to explore my work <a href='https://swarakhakhkhar.com/projects'>explore my work</a> and know more about me <a href='https://swarakhakhkhar.com/about'>me</a>.",
+        text: "I'm **Swara Khakhkhar**, a BA (Honours) graduate with a major in Psychology, aspiring a career in clinical psychology. My drive for this ambition stems from a deep-rooted purpose: to empower individuals by helping them navigate through mental health challeneges and thereby help build emotionally-healthy families. In this space, I intend to write about my learnings and reflections as I take this path. Feel free to <a href='https://swarakhakhkhar.com/projects'>explore my work</a> and know more about <a href='https://swarakhakhkhar.com/about'>me</a>.",
         actions: [
             {
                 text: 'Get in Touch',
