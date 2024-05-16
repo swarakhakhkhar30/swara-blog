@@ -66,7 +66,7 @@ const siteConfig: SiteConfig = {
     footerNavLinks: [
         {
             text: 'Home',
-            href: '/home'
+            href: '/'
         },
         {
             text: 'About',
