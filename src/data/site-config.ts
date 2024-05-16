@@ -97,7 +97,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi there! Good to see you here; welcome to my space!',
-        text: "I'm **Swara Khakhkhar**, an undergraduate student at Ahmedabad University. I aspire to become a clinical psychologist. dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "I'm **Swara Khakhkhar**, a BA (Honours) graduate with a major in Psychology, aspiring a career in clinical psychology. My drive for this ambition stems from a deep-rooted purpose: to empower individuals by helping them navigate through mental health challeneges and thereby help build emotionally-healthy families. In this space, I intend to write about my learnings and reflections as I take this path. Feel free to explore my work <a href='https://swarakhakhkhar.com/projects'>explore my work</a> and know more about me <a href='https://swarakhakhkhar.com/about'>me</a>.",
         actions: [
             {
                 text: 'Get in Touch',
