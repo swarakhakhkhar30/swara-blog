@@ -81,10 +81,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'LinkedIn',
             href: 'https://www.linkedin.com/in/swara-khakhkhar-195565260/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://www.instagram.com/_swara2211'
         }
     ],
     hero: {
