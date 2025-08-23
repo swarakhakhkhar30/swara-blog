@@ -6,4 +6,4 @@ seo:
 ---
 
 
-I can be reached via email at [_swara@swarakhakhkhar.com_](mailto:swara@swarakhakhkhar.com). You can also connect with me on [_LinkedIn_](https://www.linkedin.com/in/swara-khakhkhar-195565260/) or [_Instagram_](https://www.instagram.com/_swara2211). 
+I can be reached via email at [_swara@swarakhakhkhar.com_](mailto:swara@swarakhakhkhar.com). You can also connect with me on [_LinkedIn_](https://www.linkedin.com/in/swara-khakhkhar-195565260/). 
