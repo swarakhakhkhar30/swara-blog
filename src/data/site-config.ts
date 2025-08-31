@@ -80,8 +80,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi there! Good to see you here',
-        text: "I'm **Swara Khakhkhar**, a postgraduate clinical psychology student. I work with children, adults, and the geriatric population in therapy and assessment settings, where every session teaches me more about the power of parenting and family environment. And so, I am working towards clinical practice and research with one purpose- **to empower and equip children and parents to co-create thriving families**. Feel free to <a href='https://swarakhakhkhar.com/projects'>explore my work</a> and know more about <a href='https://swarakhakhkhar.com/about'>me</a>.",
+        title: 'Hi there :)',
+        text: "I'm **Swara Khakhkhar**, a postgraduate clinical psychology student. I work with children, adults, and the geriatric population in therapy and assessment settings, where every session teaches me more about the power of parenting and family environment. And so, I am working towards clinical practice and research with one purpose- **to empower and equip children and parents with tools to co-create thriving families**. Feel free to <a href='https://swarakhakhkhar.com/projects'>explore my work</a> and know more about <a href='https://swarakhakhkhar.com/about'>me</a>.",
         actions: [
             {
                 text: 'Get in Touch',
