@@ -8,36 +8,32 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
+## Swara Khakhkhar
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Greetings!** I’m Swara Khakhkhar, a postgraduate clinical psychology student. Working with and for children and parents is my life’s work. It's where I feel most alive, curious, and connected. I love sitting cross-legged on the floor, listening to how a child makes sense of their world, or talking with parents who are trying their best to hold their families together. It reminds me why I do this work.
 
-## Ethan Donovan - Web Developer based in Estonia
+## Now
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+Currently, I am seeing clients under the supervision of licensed clinical psychologists at my university’s in-house counselling center. Alongside this, I am working on my dissertation which is an inquiry into the experiences of people with Autoimmune Disorders through the lens of Internal Family Systems Framework. 
 
-## Skills and Expertise
+## Clinical Experience
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+During my **undergraduate internship**, I observed assessments for Intellectual Disability, Personality Disorders, Depression and Autism. I also followed the course of ABA therapy with a child on the autism spectrum throughout the training, and helped run a school career-guidance project that reached 350+ students. This was my first ever exposure to a clinical setting. 
 
-## Innovation and Problem-Solving
+In my **postgraduate training**, I now handle the full scope of clinical work under close supervision. My role involves taking detailed case histories, mental status examinations, screening tests and developing and refining case formulations to guide intervention planning. Each session with the client is followed by a supervision session where we actively plan the next steps. I also administer standardized assessments for Intellectual Disability, Intellectual Giftedness, Autism Spectrum Disorder, ADHD, and aptitude and personality testing for career counseling. This extends to writing detailed assessment reports and engaging with clients and parents to psychoeducate about what they mean.
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+On the therapy side, I work with clients presenting with Borderline Personality Disorder, Alzheimer’s disease, anxiety, suicide ideation, childhood trauma manifesting in adulthood, and obsessive thought patterns. Depending on the clients’ presentation and needs, I draw from Dialectical Behavioural Therapy, Cognitive Behavioural Therapy, Neurorehabilitation, Internal Family Systems, and Psychoanalysis – and track outcomes, and feed those insights back into treatment planning with the supervisor.
 
-## Global Perspective, Local Impact
+I also worked as a **postgraduate summer intern** at the psychiatry department of a government hospital. I assisted resident doctors managing 100+ patients daily with case histories and MSEs in both OPD and IPD settings, followed by discussions on psychopharmacology and the ways they identified concerns in a rather limited time. What struck me most was how little time each patient received- just a few minutes to talk about struggles that often stretched far beyond medicine. Many came from nearby villages and carried stories shaped by realities very different from ours. I realised that while medication helped, therapy was almost out of reach. To bridge this, I volunteered to present tools and techniques to the doctors that could fit into these short consultations, giving them a way to bring therapeutic care into an otherwise rushed system.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
 
-## Continuous Learning
+## Skills
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+I have a knack for connecting the dots between a person’s developmental and relational background to plan interventions that best fit. I am trained in leading (1) intake interviews, case histories, diagnostic interviewing, producing DSM-5 aligned case formulations (2) administering, scoring and interpreting standardized screening, developmental and clinical assessments and (3) therapeutic casework – all under supervision. I also work confidently with thematic analysis and research tools such as Jamovi and JASP.
 
-## Collaboration and Communication
-
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
 
 ## Get in Touch
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+I’m here to keep learning, questioning, and creating work that matters. If something in my journey sparks your interest, feel free to reach out - I'd love to chat and collaborate!
 
-_Let's build something amazing together!_
+_Let's work on something amazing together!_
